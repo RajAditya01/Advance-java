@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:web="http://xmlns.jcp.org/xml/ns/javaee">
+  <servlet>
+    <description></description>
+    <display-name>WelcomeServlet</display-name>
+    <servlet-name>WelcomeServlet</servlet-name>
+    <servlet-class>MyPackage.WelcomeServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>WelcomeServlet</servlet-name>
+    <url-pattern>/WelcomeServlet</url-pattern>
+  </servlet-mapping>
+</web-app>

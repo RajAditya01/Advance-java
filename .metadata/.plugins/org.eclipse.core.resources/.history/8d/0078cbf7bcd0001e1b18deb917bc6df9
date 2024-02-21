@@ -1,0 +1,7 @@
+package com.company.dao;
+
+import com.company.servlet.UserDao;
+
+public class UserDaoImpl extends UserDao {
+
+}
