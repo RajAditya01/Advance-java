@@ -3,7 +3,7 @@
 <body>
     <%
         // Retrieve the session object
-        HttpSession session = request.getSession(false);
+        HttpSession session2 = request.getSession(false);
 
         // Check if the session is not null and the username attribute is set
         if (session != null && session.getAttribute("username") != null) {

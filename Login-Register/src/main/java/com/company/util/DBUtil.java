@@ -9,14 +9,20 @@ public class DBUtil {
     private static final String URL = "jdbc:oracle:thin:@localhost:1521:XE";  
     private static final String USERNAME = "sys as sysdba";  
     private static final String PASSWORD = "1234";  
-
-    static {
+    Connection con=null;
+    Connection getConnection1() {
         try {
             // Load the Oracle JDBC driver
             Class.forName("oracle.jdbc.driver.OracleDriver");
+            con=DriverManager.getConnection(URL,USERNAME,PASSWORD);
+            
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         }
+        catch(SQLException s) {
+        	s.printStackTrace();
+        }
+		return con;
     }
 
     public static Connection getConnection() throws SQLException {
