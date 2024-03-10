@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <title>Delete Employee</title>
     <style>
+    
         body {
             font-family: Arial, sans-serif;
             background-color: #f4f4f4;
