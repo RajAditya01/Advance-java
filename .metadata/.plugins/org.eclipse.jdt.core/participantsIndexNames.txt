@@ -5,6 +5,8 @@ C:\Users\adity\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jsp
 \practicle7\src\main\java
 C:\Users\adity\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1004080219.index
 \jspProject\src\main\java
+C:\Users\adity\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1819585658.index
+\JSTL\src\main\java
 C:\Users\adity\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1689327787.index
 \practicle7\src\main\java
 C:\Users\adity\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1279260388.index

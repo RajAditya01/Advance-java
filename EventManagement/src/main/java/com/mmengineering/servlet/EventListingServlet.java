@@ -19,6 +19,6 @@ public class EventListingServlet extends HttpServlet {
         List<Event> events = eventDAO.getAllEvents();
 
         request.setAttribute("events", events);
-        request.getRequestDispatcher("eventListing.jsp").forward(request, response);
+        request.getRequestDispatcher("eventListingServlet.jsp").forward(request, response);
     }
 }
