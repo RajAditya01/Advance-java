@@ -10,7 +10,7 @@
 <footer class="container-fluid bg-dark text-white py-3">
   <div class="text-center">
     <p>
-      &copy; 2023 NoteNation. All rights reserved. | Designed with <i class="fa fa-heart text-danger"></i> by  Gautam Kumar
+      &copy; 2024 NoteNation. All rights reserved. | Designed with <i class="fa fa-heart text-danger"></i> by  Aditya Raj
     </p>
     <p>
       
