@@ -104,5 +104,5 @@ We welcome contributions to NoteNation! If you find any bugs, have suggestions f
 
 
 
-If you have any questions, feedback, or suggestions, please feel free to contact us at [gautam848113@gmail.com](mailto:gautam848113@gmail.com).
+If you have any questions, feedback, or suggestions, please feel free to contact us at [adityavishal903@gmail.com](mailto:adityavishal903@@gmail.com).
 
