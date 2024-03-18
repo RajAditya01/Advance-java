@@ -20,47 +20,6 @@ NoteNation is a powerful and user-friendly note-taking website built using Java 
 - **Tagging System:** Notes can be tagged with relevant keywords, making it easier for users to filter and categorize their notes.
 
 
-## Screenshots
-
-<!-- Add relevant screenshots here -->
-<p align="center">
-<img src="https://github.com/gtm20/NoteNation/assets/115064011/5b56e1bf-632d-4c2f-a28c-079387ab87a8">
-<img src="https://github.com/gtm20/NoteNation/assets/115064011/a0bcc810-98da-44ac-ad38-96b0aadefe2e">
-
-<br>
-<em>Home Page - View and create notes.</em>
-</p>
-
-
-<p align="center">
-<img src="https://github.com/gtm20/NoteNation/assets/115064011/00ae92fe-5f95-4fd1-b890-9888a257dddb" alt="NoteNation Editor">
-
-<img src="https://github.com/gtm20/NoteNation/assets/115064011/5a9809e1-424d-4cd1-8367-c0f9eb9e168f" alt="EditNotes">
-
-  
-<br>
-<em>Note Editor - Compose and format notes with ease.</em>
-</p>
-
-
-<p align="center">
-
-<img src="https://github.com/gtm20/NoteNation/assets/115064011/e4a4f976-c857-4268-bc56-92e221239f6c" alt="show notes">
-
-
-  
-<br>
-<em>Show Notes -  Capture, Organize, and Remember! 📝</em>
-</p>
-
-<p align="center">
-
-<img src="https://github.com/gtm20/NoteNation/assets/115064011/0f1cb85e-8af1-406b-98f0-dd6d02d81ca4" alt="show profile">
-  
-<br>
-<em>Show Profile -  Check Your Profile Details</em>
-</p>
-
 ## Pros and Cons
 
 ### Pros:
