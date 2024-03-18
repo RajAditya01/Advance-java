@@ -19,20 +19,6 @@ NoteNation is a powerful and user-friendly note-taking website built using Java 
 
 - **Tagging System:** Notes can be tagged with relevant keywords, making it easier for users to filter and categorize their notes.
 
-## Installation
-
-To run NoteNation locally, follow these steps:
-
-1. Clone the repository:
-git clone https://github.com/gtm20/notenation/tree/master
-
-2. Import the project into Eclipse IDE.
-
-3. Configure the MySQL database settings in `src/main/resources/db.properties`.
-
-4. Deploy the project on your local server (e.g., Apache Tomcat).
-
-5. Access the website by visiting `http://localhost:8080/notenation` in your web browser.
 
 ## Screenshots
 
